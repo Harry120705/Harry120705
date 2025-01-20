@@ -1,4 +1,5 @@
-<h2 align="center">HELLO WORLD 👋! My name is Harrison Carvalho and I'm a Developer, from Santarém-Pa</h2>
+<h2 align="center">HELLO WORLD 👋!</h2>
+<h2 align="center">My name is Harrison Carvalho and I'm a Developer, from Santarém-Pa</h2>
 
 ###
 
@@ -36,18 +37,9 @@
   <a href="www.linkedin.com/in/harrison-carvalho-b19879291" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/Harry120705" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
   <a href="https://www.instagram.com/carvalho_0388/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/>
     </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFubDFmeGhnaXEwb3M5ZzlpaWlnZnU5MG9yM3A0MHB4MjY1aGl5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
 </div>
 
 ###
