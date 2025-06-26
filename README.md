@@ -46,7 +46,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://www.linkedin.com/in/harrison-carvalho-71309536b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BUmMsOUhbR2GLrNahYZwmRA%3D%3D)](www.linkedin.com/in/harrison-carvalho-b19879291)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/harrison-carvalho-b19879291)
 [![Gmail Badge](https://img.shields.io/badge/-hahcarvalho@gmail.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hahcarvalho@gmail.com)](mailto:hahcarvalho@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harry120705)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carvalho_0388/)
