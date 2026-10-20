@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/Harry120705">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=a855f7&center=true&vCenter=true&width=700&lines=%3E+Explorando+novas+tecnologias;%3E+Desenvolvendo+solu%C3%A7%C3%B5es+de+software;%3E+Aprendendo+Java+%26+algoritmos+de+IA;%3E+Sempre+em+evolu%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=a855f7&center=true&vCenter=true&width=700&lines=%3E+Explorando+novas+tecnologias;%3E+Desenvolvendo+solu%C3%A7%C3%B5es+de+software;%3E+Aprendendo+IA+%26+arquitetura+de+software;%3E+Sempre+em+evolu%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,7 +22,7 @@ public class Harrison {
 
     private final String formacao  = "Sistemas de Informação @ UFOPA";
     private final String atuacao   = "Bolsista no Projeto Acervo Acadêmico Digital";
-    private final String[] estudos = { "Java", "Algoritmos de IA", "Frameworks de desenvolvimento" };
+    private final String[] estudos = { "Algoritmos de IA", "Arquitetura de software", "Frameworks de desenvolvimento" };
     private final String foco      = "Explorar novas tecnologias e construir soluções de software";
 
     public void run() {
@@ -95,9 +95,6 @@ public class Harrison {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harry120705&theme=dark&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&border=a855f7" alt="streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harry120705&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true" alt="activity graph" />
 
 </div>
 
